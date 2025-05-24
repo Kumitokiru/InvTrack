@@ -43,8 +43,8 @@ InvTrack/
 │   └── IV.ico            # Custom icon for EXE
 ├── build/                # (PyInstaller build folder)
 ├── dist/                 # (PyInstaller output folder)
-├── main.py               # Tkinter GUI + simulation controller
-├── model.py              # InventorySimulator class (discrete-event logic)
+│    └── InvTrack.exe     # Executable app
+├── InvTrack.py           # Tkinter GUI + simulation controller
 ├── requirements.txt      # pip dependencies
 ├── main.spec             # (optional) PyInstaller spec file
 └── README.md             # This file
