@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 3. Launch the app
 ```terminal
-python main.py
+python InvTrack.py
 ```
 
 or 
