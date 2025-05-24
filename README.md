@@ -64,6 +64,7 @@ or
 
 Go to dist folder, look for InvTrack.exe and open it
 
+
 🧪 Simulation Model
 Initialization: inventory = starting_inventory, no pending order
 
